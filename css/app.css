@@ -1,0 +1,283 @@
+/*@font-face {
+    font-family: "HoltwoodOneSC";
+    src: url("../fonts/Coustard-Regular.ttf")
+}*/
+
+*{
+    box-sizing: border-box;
+
+    --app-main-color: #e6544e;
+    --app-shade-color: #FF4242;
+    --app-contrast-color: #ffed75;
+    --app-cool-white: #f9f9f9;
+
+    cursor: default !important;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    position: relative;
+    height: 100vh;
+    background: var(--app-cool-white);
+}
+
+.item{
+    position: relative;
+}
+
+.item h3, .item p{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+    -ms-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.item h3{
+    font-size: 16px;
+    font-weight: 400;
+    color: #333;
+    font-family: "Gotham bold", sans-serif;
+}
+
+.item p{
+    font-size: 13px;
+    font-weight: 200;
+    color: #777;
+    font-family: "Gotham medium", sans-serif;
+}
+
+.item .art-work{
+    position: relative;
+    width: 30px;
+    min-width: 30px;
+    height: 30px;
+    overflow: hidden;
+    margin-right: 12px;
+}
+
+.item .art-work img{
+    width: 100%;
+}
+
+.item .art-work + .item-text{
+    position: relative; 
+    max-width: calc(100% - 42px); 
+    margin-right: 14px;
+}
+
+#appOuter{
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#imageViewer{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    /*background: #0f0;*/
+}
+
+#curSong{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+#curSong img{
+    height: 400px;
+    max-height: 100%;
+    /*height: 300px;*/
+    /*width: 300px;*/
+}
+
+@media all and (max-height: 670px){
+    #curSong img{
+        height: 300px;
+    }
+}
+
+#emptyState{
+    /*position: absolute;*/
+    color: #999;
+    border-width: 2px;
+    border-style: dashed;
+    padding: 70px;
+    min-height: 300px;
+    transition: all 0.15s ease-out;
+}
+
+#appOuter.hovered #emptyState{
+    color: lightgreen;
+    transform: scale(1.01);
+}
+
+#emptyState h3{
+    font-size: 1.5em;
+    font-weight: 200;
+    font-family: "Verdana", serif;
+}
+
+#emptyState h3:first-letter{
+    text-transform: uppercase;
+}
+
+#appOuter.visible #emptyState,
+#appOuter:not(.visible) #curImage{
+    /*opacity: 0;
+    pointer-events: none;*/
+}
+
+#controls{
+    /*position: fixed;*/
+    /*bottom: 0;*/
+    /*left: 0;*/
+    /*margin-top: 20px;*/
+    width: 100%;
+    overflow: hidden;
+    background: var(--app-cool-white);
+    box-shadow: 0 -1px 16px rgba(0,0,0,0.1);
+    opacity: translateY(120%);
+    transition: all 0.15s ease-out;
+}
+
+#controls #duration, #controls #current{
+    position: absolute;
+    top: 10px;
+    font-size: 15px;
+    color: #333;
+}
+
+#controls #current{
+    left: 10px;
+}
+
+#controls #duration{
+    right: 10px;
+}
+
+#appOuter.visible #controls{
+    opacity: 1;
+}
+
+#controls #contents{
+    position: relative;
+    padding: 16px 20px;
+}
+
+#controls #progress{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 3px;
+    width: 100%;
+    background-color: #f7dfdf;
+}
+
+#controls #progress #bar{
+    background: #f5afaf;
+    transform: translateX(-100%);
+    height: 3px;
+}
+
+#controls button{
+    font-size: 20px;
+    min-width: 30px;
+    text-align: center;
+    border: none;
+    outline: none;
+}
+
+#controls button.shuffle{
+    background: #000;
+    color: #f5afaf;
+}
+
+#controls button.shuffle svg{
+    fill: #f5afaf;
+}
+
+#controls button:not(#playPauseBtn){
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+#controls #playPauseBtn{
+    /*font-size: 28px;*/
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+#controls button:active{
+    transform: scale(1.15);
+}
+
+#playList{
+    width: 320px;
+    height: calc(100vh - 80px);
+    overflow: hidden;
+    background: #eee;
+    position: relative;
+}
+
+#playList .header{
+    height: 160px;
+    min-height: 160px;
+    background: #e0e0e0;
+    padding: 16px;
+}
+
+#playList #songList{
+    padding-top: 16px;
+    padding-bottom: 8px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+#songList .art-work{
+    width: 20px;
+}
+
+@media all and (max-width: 992px){
+    #playList{
+        position: fixed;
+        top: 0;
+        right: 0;
+        box-shadow: -2px 0 16px rgba(0,0,0,0.1);
+        transform: translateX(110%);
+        z-index: 2;
+        transition: transform 0.15s ease-out;
+    }
+
+    #playList.open{
+        transform: translateX(0);   
+    }
+
+    #playList .header{
+        padding-top: 20px;
+    }
+}
+
+#playList .song{
+    min-height: 48px;
+    padding: 8px 0;
+    margin: 0 16px;
+}
+
+#playList .song + .song{
+    border-top: 1px solid #ddd;
+}
+
+.song h3, .song p{
+    width: 100%;
+    overflow: hidden;
+    -ms-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

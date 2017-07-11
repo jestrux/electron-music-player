@@ -1,0 +1,14 @@
+<div class="list-item layout vertical" 
+    ng-class="{'current' : $ctrl.item.current}"
+    ng-if="!$ctrl.href">
+    <h3 class="item-title">{{$ctrl.item.title}}</h3>
+    <p class="item-subtitle">{{$ctrl.item.subtitle}}</p>
+</div>
+
+<a class="list-item layout vertical" 
+    ng-class="{'current' : $ctrl.item.current}"
+    ng-if="$ctrl.href"
+    href="{{$ctrl.href}}">
+    <h3 class="item-title">{{$ctrl.item.title}}</h3>
+    <p class="item-subtitle">{{$ctrl.item.subtitle}}</p>
+</a>
