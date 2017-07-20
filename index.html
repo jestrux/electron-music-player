@@ -75,7 +75,7 @@
 
                     <p style="padding: 20px; padding-top: 0;" ng-if="showLyrics && showTabs" ng-bind-html="curSongTabs"></p>
 
-                    <div ng-if="!showLyrics" class="song item layout" ng-repeat="song in songs" ng-click="playSong($index)">
+                    <div ng-if="!showLyrics" class="song item layout" ng-repeat="song in songs" ng-click="songClick($index)" on-long-press="songPress($index)" on-touch-end="songReleased($index)" ng-class="{'selected' : songSelected($index)}">
                         <div class="art-work layout center-center">
                             <span ng-if="$index !== curSong">
                                 {{$index + 1}}.

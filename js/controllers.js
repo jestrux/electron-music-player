@@ -33,6 +33,7 @@ cModule.controller('AppCtrl', function ($scope, $sce, $timeout, $localForage, So
     $scope.name = "App Name";
     $scope.hoverClass = "";
     $scope.songs = [];
+    $scope.selectedSongs = [];
     $scope.playing = false;
     $scope.perCentIn = 0;
     $scope.curPlaylist = {name: 'Unnamed playlist', curSong: -1, songs: []};
@@ -151,6 +152,18 @@ cModule.controller('AppCtrl', function ($scope, $sce, $timeout, $localForage, So
             break;
             case 14:{
                 $scope.showTabs = !$scope.showTabs;
+            }
+            break;
+            case 15:{
+                $scope.removeSelectedSongs();
+            }
+            break;
+            case 16:{
+                $scope.selectNextSong();
+            }
+            break;
+            case 17:{
+                $scope.selectPrevSong();
             }
             break;
             default:
@@ -376,6 +389,86 @@ cModule.controller('AppCtrl', function ($scope, $sce, $timeout, $localForage, So
             setPlayerColors(song.artwork, song.imageMime);
         else
             setPlayerColors();
+    }
+
+    $scope.songClick = function($index){
+        if($scope.selectedSongs.length < 1){
+            $scope.playSong($index);
+        }else{
+            if(!$scope.songSelected($index))
+                $scope.selectSong($index);
+            else
+                $scope.unSelectSong($index);
+        }
+    }
+
+    $scope.songPress = function($index){
+        $scope.selectSong($index);
+    }
+
+    $scope.selectSong = function($index){
+        if(!$scope.songSelected($index)){
+            $scope.selectedSongs.push($index);
+        }
+    }
+
+    $scope.unSelectSong = function($index){
+        $scope.selectedSongs.splice($scope.selectedSongs.indexOf($index), 1);
+    }
+
+    $scope.getLastSelectedSong = function(){
+        var selectedSongs = $scope.selectedSongs;
+        return selectedSongs[selectedSongs.length - 1];
+    }
+
+    $scope.getFirstSelectedSong = function(){
+        return $scope.selectedSongs[0];
+    }
+
+    $scope.selectNextSong = function(){
+        var last_selected = $scope.getLastSelectedSong();
+        var first_selected = $scope.getFirstSelectedSong()
+
+        if(last_selected < first_selected)
+            $scope.songClick(last_selected);
+        else if(last_selected >= first_selected)
+            if(last_selected < $scope.songs.length - 1)
+                $scope.selectSong(last_selected + 1);
+    }
+
+    $scope.selectPrevSong = function(){
+        var last_selected = parseInt($scope.getLastSelectedSong());
+        var first_selected = $scope.getFirstSelectedSong()
+        
+        if(last_selected > first_selected)
+            $scope.songClick(last_selected);
+        else if(last_selected <= first_selected)
+            if(last_selected > 0)
+                $scope.songClick(last_selected - 1);
+    }
+
+    $scope.removeSong = function($index){
+        $scope.songs.splice($index, 1);
+    }
+
+    $scope.songSelected = function($index){
+        return $scope.selectedSongs.indexOf($index) != -1;
+    }
+
+
+    $scope.songReleased = function($index){
+        // console.log("Released!");
+    }    
+
+    $scope.removeSelectedSongs = function(){
+        for (var i = $scope.selectedSongs.length - 1; i >= 0; i--) {
+            $idx = $scope.selectedSongs[i];
+            $scope.unSelectSong($idx);
+
+            if($scope.curSong != $idx){
+                $scope.removeSong($idx);
+            }
+        }
     }
 
     $scope.playPause = function(path){

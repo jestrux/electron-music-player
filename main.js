@@ -94,4 +94,17 @@ app.on('ready', function(){
     electronLocalshortcut.register('Ctrl+Shift+T', function () {
         mainWindow.webContents.send('global-shortcut', 14);
     });
+
+    // REMOVE SELECTED SONG
+    electronLocalshortcut.register('Delete', function () {
+        mainWindow.webContents.send('global-shortcut', 15);
+    });
+
+    // SELECT NEXT SONG
+    electronLocalshortcut.register('Shift+Down', function () {
+        mainWindow.webContents.send('global-shortcut', 16);
+    });
+    electronLocalshortcut.register('Shift+Up', function () {
+        mainWindow.webContents.send('global-shortcut', 17);
+    });
 });
