@@ -448,7 +448,11 @@ cModule.controller('AppCtrl', function ($scope, $sce, $timeout, $localForage, So
     }
 
     $scope.removeSong = function($index){
-        $scope.songs.splice($index, 1);
+        // if($scope.curSong === $index)
+        //     if($scope.playing)
+        //         $scope.stop();
+        if($scope.curSong != $index)
+            $scope.songs.splice($index, 1);
     }
 
     $scope.songSelected = function($index){
@@ -464,10 +468,7 @@ cModule.controller('AppCtrl', function ($scope, $sce, $timeout, $localForage, So
         for (var i = $scope.selectedSongs.length - 1; i >= 0; i--) {
             $idx = $scope.selectedSongs[i];
             $scope.unSelectSong($idx);
-
-            if($scope.curSong != $idx){
-                $scope.removeSong($idx);
-            }
+            $scope.removeSong($idx);
         }
     }
 
@@ -501,6 +502,27 @@ cModule.controller('AppCtrl', function ($scope, $sce, $timeout, $localForage, So
         }else{
             cancelAnimationFrame(animFrame);
         }
+    }
+
+    $scope.play = function(){
+        if($scope.curSong === -1)
+            rollIt();
+        else
+            frameLooper();
+
+        player.play();
+        $scope.playing = true;
+    }
+
+    $scope.pause = function(){
+        cancelAnimationFrame(animFrame);
+        player.pause();
+        $scope.playing = false;
+    }
+
+    $scope.stop = function(){
+        $scope.pause();
+        $scope.curSong = -1;
     }
 
     $scope.formattedTime = function(time){
