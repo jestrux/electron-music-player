@@ -1,0 +1,116 @@
+[Chords]
+<span>C</span>:  030210
+<span>Am</span>: 002210
+<span>F</span>:  133211
+<span>G</span>:  320003
+<span>Gm</span>: 355333
+<span>Em</span>: 022000
+<span>Fm</span>: 133111
+
+[Verse 1]
+<span>C</span>      <span>Am</span>
+How the hell does a broken heart
+<span>F</span>      <span>G</span>
+Get back together when it&apos;s torn apart?
+<span>C</span>   <span>Am</span> <span>F</span>       <span>G</span>
+ Teach itself to start beating again, ba ba ba ba
+
+[Chorus]
+<span>C</span>
+This little bluebird
+     <span>Am</span>
+Came looking for you
+    <span>F</span>
+I said that I hadn&apos;t seen you
+      <span>G</span>
+In quite some time
+<span>C</span>
+This little bluebird
+<span>Am</span>
+She came looking again
+  <span>F</span>
+I said we weren&apos;t even friends
+  <span>G</span>
+She could have you
+
+[Verse 2]
+<span>Am</span> <span>Gm</span>
+Don&apos;t you think it was hard?
+  <span>C</span>     <span>F</span>
+I didn&apos;t even say that you died
+   <span>C</span>    <span>G</span>
+It wouldn&apos;t have been such a lie
+<span>F</span>   <span>Gm</span>
+ Cause then I started to cry
+
+[Chorus]
+<span>C</span>
+This little bluebird
+    <span>Am</span>
+Sure won&apos;t give it a rest
+ <span>F</span>
+She swears that you may be
+     <span>G</span>
+Better than all the rest
+       <span>C</span>
+I said no
+       <span>Am</span>
+You&apos;ve got it all wrong
+   <span>F</span>
+If he were something special
+   <span>G</span>
+I wouldn&apos;t have this song
+
+[Verse 2]
+<span>Am</span> <span>Gm</span>
+Don&apos;t you think it was hard?
+  <span>C</span>     <span>F</span>
+I didn&apos;t even say that you died
+   <span>C</span>    <span>G</span>
+It wouldn&apos;t have been such a lie
+<span>F</span>   <span>Em</span>   <span>Gm</span>
+ Cause then I started to cry
+
+[Verse 1]
+<span>C</span>      <span>Am</span>
+How the hell does a broken heart
+<span>F</span>      <span>G</span>
+Get back together when it&apos;s torn apart?
+<span>C</span>   <span>Am</span> <span>F</span>
+ Teach itself to start beating again
+      <span>G</span>   <span>C</span>
+Ba ba ba ba, ba ba ba ba ba ba
+
+[Verse 3]
+<span>F</span>        <span>Am</span>
+What if when she comes over I am in your arms?
+<span>F</span>     <span>C</span>
+Taking all I want from you again
+<span>C</span>         <span>Am</span>          <span>Fm</span>  <span>F</span>
+Ba ba ba, ba ba ba ba ba, ba ba ba ba ba ba ba ba
+<span>C</span>         <span>Am</span>          <span>Fm</span>  <span>G</span>
+Ba ba ba, ba ba ba ba ba, ba ba ba ba ba ba ba ba
+<span>C</span>      <span>Am</span>
+How the hell does a broken heart
+<span>F</span>      <span>G</span>
+Get back together when it&apos;s torn apart?
+<span>C</span>   <span>Am</span> <span>F</span>       <span>G</span>
+ Teach itself to start beating again, ba ba ba ba
+<span>C</span>      <span>Am</span>
+How the hell does a broken heart
+<span>F</span>      <span>G</span>
+Get back together when it&apos;s torn apart?
+<span>C</span>   <span>Am</span> <span>F</span>       <span>G</span>
+ Teach itself to start beating again, ba ba ba ba
+<span>Fm</span>       <span>Gm</span>
+Beating again, ba ba ba ba
+
+[Outro]
+<span>C</span>
+This little bluebird
+   <span>Am</span>
+Don&apos;t come around here anymore
+   <span>F</span>
+So I went looking for her
+      <span>G</span>   <span>C</span>
+And I found you

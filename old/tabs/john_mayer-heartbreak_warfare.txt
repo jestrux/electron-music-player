@@ -1,0 +1,150 @@
+[Guitar Chords]
+<span>Asus2</span>     : x02200
+<span>Asus</span>      : x02230
+<span>A</span>         : x02220
+<span>Dsus2</span>/<span>F#</span>  : 2x0230
+<span>Dmaj7</span>?/<span>F#</span> : 2x0220
+<span>D5</span>/<span>F#</span>     : 2x0200
+<span>F#m</span>       : 244220
+<span>Dsus2</span>     : xx0230
+<span>Dmaj7</span>?    : xx0220
+<span>D5</span>?       : xx0200
+<span>Fmaj7</span>/<span>G</span>?  : 1x3213
+<span>C/G</span>?      : x32013
+<span>G</span>         : 3x0003
+
+[Intro]
+<span>Asus2</span> &#x2013; <span>Dsus2</span>/<span>F#</span>      x 2
+
+[Part 1]
+<span>Asus2</span> &#x2013; <span>Dsus2</span>/<span>F#</span>      x 2
+Lightning strikes
+Inside, a chance to keep me up at night
+Dream of ways
+To make you understand my pain
+
+[Part 2]
+<span>Asus2</span> &#x2013; <span>Dsus2</span>/<span>F#</span>      x 2   
+Clouds of sulfur in the air
+Bombs are falling everywhere
+It&apos;s heartbreak warfare
+Once you want it to begin,
+No one really every wins
+In heartbreak warfare
+
+[Part 3]
+<span>F#m</span> &#x2013; <span>Asus2</span> &#x2013; <span>Dsus2</span>   x 2
+If you want more love,
+why don&apos;t you say so?
+If you want more love,
+why don&apos;t you say so?
+
+[Part 1]
+<span>Asus2</span> &#x2013; <span>Dsus2</span>/<span>F#</span>      x 2
+Lightning strikes
+Inside, a chance to keep me up at night
+Dream of ways
+To make you understand my pain
+
+[Part 2]
+<span>Asus2</span> &#x2013; <span>Dsus2</span>/<span>F#</span>      x 2   
+Clouds of sulfur in the air
+Bombs are falling everywhere
+It&apos;s heartbreak warfare
+Once you want it to begin,
+No one really every wins
+In heartbreak warfare
+
+[Part 3]
+<span>F#m</span> &#x2013; <span>Asus2</span> &#x2013; <span>Dsus2</span>   x 2
+If you want more love,
+why don&apos;t you say so?
+If you want more love,
+why don&apos;t you say so?
+
+[Part 4]
+<span>Fmaj7</span>/<span>G</span> &#x2013; <span>C/G</span> &#x2013; <span>G</span>     x 4
+Just say so...
+
+[Part 5]
+<span>Fmaj7</span>/<span>G</span> &#x2013; <span>G</span>           x 2
+
+How come the only way to know how high you get me
+is to see how far I fall
+God only knows how much I&apos;d love you if you let me
+but I can&apos;t break free at all.
+
+[Part 6]
+<span>A</span>       + a fade-in to part 1 with an <span>A</span>-chord.
+
+It&apos;s a heartbreak...
+
+[Part 1]
+<span>Asus2</span> &#x2013; <span>Dsus2</span>/<span>F#</span>      x 2
+Lightning strikes
+Inside, a chance to keep me up at night
+Dream of ways
+To make you understand my pain
+
+[Part 2]
+<span>Asus2</span> &#x2013; <span>Dsus2</span>/<span>F#</span>      x 2   
+Clouds of sulfur in the air
+Bombs are falling everywhere
+It&apos;s heartbreak warfare
+Once you want it to begin,
+No one really every wins
+In heartbreak warfare
+
+End with <span>A</span> <span>Dmaj7</span>?/<span>F#</span>
+
+(1)Lighting strike 
+inside my chest to keep me up at night 
+Dream of ways 
+to make you understand my pain 
+
+(2)Clouds of sulfur in the air 
+Bombs are falling everywhere 
+It&apos;s heartbreak warfare 
+Once you want it to begin 
+No one really ever wins 
+In heartbreak warfare 
+
+(3)If you want more love, why don&apos;t you say so 
+If you want more love why don&apos;t you say so 
+
+(1)Drop his name 
+Push it in and twist the knife again 
+Watch my face 
+As I pretend to feel no pain 
+
+ (2)Clouds of sulfur in the air 
+Bombs are falling everywhere 
+It&apos;s heartbreak warfare 
+Once you want it to begin 
+No one really ever wins 
+In heartbreak warfare
+
+(3)If you want more love Why don&apos;t you say so 
+If you want more love Why don&apos;t you say so 
+
+(4)Just say so..
+
+(5)How come the only way to know how high you get me 
+Is to see how far I fall 
+God only knows how much I&apos;d love you if you&apos;d let me 
+But I can&apos;t break free at all 
+
+(6)It&apos;s heart, heartbreak 
+
+(1)I don&apos;t care if we don&apos;t sleep at all tonight 
+Let&apos;s just fix this whole thing now 
+I swear to God we&apos;re going to get it right 
+If you put your weapon down 
+
+(2)Red wine and Ambien 
+you&apos;re talking shit again. 
+It&apos;s heartbreak warfare 
+Good to know it&apos;s all a game 
+Disappointment has a name: 
+
+It&apos;s heartbreak warfare (<span>Dmaj7/F#</span>)

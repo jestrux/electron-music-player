@@ -1,0 +1,173 @@
+----------------------------
+KT Tunstall - Uummannaq song
+----------------------------
+
+Intro (synth):
+<span>Bm</span>    <span>D</span> <span>E</span> x3
+<span>Bm</span>    <span>A</span> <span>E</span>
+
+Verse tune (2-string guitar)
+   <span>B</span>  <span>B</span>   <span>B</span> <span>D</span>   <span>D</span> <span>E</span>   <span>E</span>
+e|---------------------|
+B|----0----------------|
+G|---------------------| (x3)
+D|----------0---0-2---2|
+A|-2------2------------|
+E|---------------------|
+
+   <span>B</span>  <span>B</span>   <span>B</span> <span>A</span>   <span>A</span> <span>G</span> <span>G</span> <span>A</span>
+e|---------------------|
+B|----0----------------|
+G|----------2---2-0-0--|
+D|---------------------|
+A|-2------2---0-------0|
+E|---------------------|
+
+   <span>B</span>  <span>B</span>   <span>B</span> <span>D</span>   <span>D</span> <span>E</span>   <span>E</span>
+e|---------------------|
+B|----0----------------|
+G|---------------------| (x2)
+D|----------0---0-2---2|
+A|-2------2------------|
+E|---------------------|
+
+   <span>A</span> <span>A</span>  <span>A</span> <span>A</span>
+e|----------|          |
+B|----------|          |
+G|---2----2-| (strum   |
+D|----------| A-chord) |
+A|-0----0---|          |
+E|----------|          |
+
+[Verse 1]
+          <span>Bm</span>
+Hold your fire
+           <span>D</span>            <span>E</span>            <span>Bm</span>
+I&apos;m coming out and I&apos;ll tell you the truth
+      <span>D</span>         <span>E</span>        <span>Bm</span>
+I was trying to raise my roof
+        <span>A</span>
+Did you see it
+       <span>G</span>      <span>A</span>  <span>Bm</span>
+That I needed to prove
+        <span>D</span>       <span>E</span>      <span>Bm</span>
+That my stinger always stays
+               <span>D</span>         <span>E</span>        <span>Bm</span>
+You said she&apos;s beautiful when she plays
+      <span>D</span>              <span>E</span>      <span>A</span>
+Did I hit you in the proper place
+<span>A</span>
+   Suddenly
+
+[Chorus 1]
+<span>G</span>          <span>A</span>                    <span>F#m</span>
+I, oh well I could live in this town
+     <span>G</span>
+Five cold years before I
+    <span>A</span>                    <span>F#m</span>
+Yes I could live in this town
+<span>G</span>
+Before I head for home
+
+<span>Bm</span> <span>D</span> <span>E</span> (2x)
+
+[Verse 2]
+        <span>Bm</span>
+It&apos;s my turn
+         <span>D</span>         <span>E</span>         <span>Bm</span>
+With the spotlight burning a hole
+       <span>D</span>            <span>E</span>       <span>Bm</span>
+But my bird-heart&apos;s turning cold
+       <span>A</span>           <span>G</span>     <span>A</span>   <span>Bm</span>
+As the temperature rises all around
+       <span>D</span>          <span>E</span>       <span>Bm</span>
+To the sound of a ticking bomb
+              <span>D</span>        <span>E</span>           <span>Bm</span>
+And then it&apos;s not just showing off here
+         <span>D</span>       <span>E</span>               <span>A</span>
+You know there&apos;s something going on here
+      <span>A</span>
+Going on here
+
+Suddenly
+
+
+[Chorus 2]
+<span>G</span>          <span>A</span>                    <span>F#m</span>
+I, oh well I could live in this town
+     <span>G</span>
+Five cold years before I
+    <span>A</span>                    <span>F#m</span>
+Yes I could live in this town
+<span>G</span>
+Five cold years
+    <span>A</span>                    <span>F#m</span>
+Yes I could live in this town
+      <span>G</span>
+Five cold years before I
+     <span>A</span>                    <span>F#m</span>
+Well I could live in this town
+<span>G</span>
+Before I head for home
+
+
+[Bridge]
+(mute)
+And considered it odd
+            <span>Bm</span>
+That I ever stayed
+     <span>A</span>
+ever stayed
+            <span>Bm</span>
+That I ever stayed
+     <span>A</span>
+ever stayed
+            <span>Bm</span>
+That I ever stayed
+     <span>A</span>
+ever stayed
+            <span>Bm</span>
+That I ever stayed
+     <span>A</span>
+ever stayed
+              <span>Bm</span>
+You know that feeling you get
+         <span>E</span>             <span>D</span>
+when you don&apos;t want to leave
+     <span>Bm</span>
+That feeling you get
+         <span>E</span>             <span>D</span>
+when you don&apos;t want to leave
+     <span>Bm</span>
+That feeling when you don&apos;t want to leave
+<span>Bm</span>
+    Suddenly
+
+
+[Chorus 3]
+<span>G</span>          <span>A</span>                    <span>F#m</span>
+I, oh well I could live in this town
+     <span>G</span>
+Five cold years before I
+    <span>A</span>                    <span>F#m</span>
+Yes I could live in this town
+<span>G</span>
+Five cold years
+    <span>A</span>                    <span>F#m</span>
+Yes I could live in this town
+      <span>G</span>
+Five cold years before I
+     <span>A</span>                    <span>F#m</span>
+Well I could live in this town
+
+
+[Outro]
+<span>G</span>            <span>A</span> <span>F#m</span> <span>G</span>
+  Uummannaq
+<span>G</span>            <span>A</span> <span>F#m</span> <span>G</span>
+  Uummannaq
+<span>G</span>
+Before I head for home
+(mute)
+And considered it odd
+That I ever stayed

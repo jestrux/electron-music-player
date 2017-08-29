@@ -1,24 +1,18 @@
 'use strict';
 
-// const {BrowserWindow, Tray} = require('electron');
-// const appIcon = new Tray('/Users/somebody/images/icon.png');
-// let win = new BrowserWindow({icon: __dirname + '/images/notelg2.png'});
-// const {app, globalShortcut} = require('electron')
 const electron = require('electron');
 const app = electron.app;
 const globalShortcut = electron.globalShortcut;
 const electronLocalshortcut = require('electron-localshortcut');
 const path = require('path');
 const url = require('url');
-// const {dialog} = require('electron').remote;
 const BW = electron.BrowserWindow;
 
-// require('electron-reload')(__dirname);
 const {dialog} = require('electron');
 
 let mainWindow;
 app.on('ready', function(){
-	mainWindow = new BW({height: 600,width: 950,backgroundColor: "#f0f0f0", icon: __dirname + '/images/notelg2.png'});
+	mainWindow = new BW({height: 780,width: 1100,backgroundColor: "#f0f0f0", icon: __dirname + '/images/notelg2.png'});
 	// mainWindow = new BW({height: 560,width: 580,backgroundColor: "#f0f0f0"});
 	// mainWindow.loadURL('https://github.com');
 	mainWindow.loadURL(url.format({

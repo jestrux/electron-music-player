@@ -1,0 +1,123 @@
+[Intro]
+
+<span>C</span>  <span>G</span>  <span>C</span>  <span>G</span>
+
+
+[Verse 1]
+
+    <span>C</span>                      <span>G</span>
+She left without leaving a number,
+         <span>C</span>                   <span>G</span>
+Said she needed to clear her mind.
+   <span>C</span>             <span>D</span>            <span>Em</span>
+He figured she&apos;d gone back to Austin,
+           <span>C</span>                       <span>D</span>
+&apos;Cause she talked about it all the time.
+<span>G/B</span>             <span>C</span>            <span>D</span>
+It was almost a year, before she called him up.
+<span>G/B</span>                <span>C</span>      
+Three rings and an answering machine,
+<span>Dsus</span>        <span>D</span>
+Is what she got:
+
+
+[Chorus]
+
+          <span>G</span>                 <span>Em</span>
+If you&apos;re calling &apos;bout the car, I sold it.
+<span>C</span>                  <span>Dsus</span>       <span>D</span>
+If this is Tuesday night, I&apos;m bowling.
+<span>Em</span>                         <span>G</span>                         <span>C</span>
+If you&apos;ve got something to sell, you&apos;re wastin&apos; your time,
+        <span>Dsus</span>   <span>D</span>
+I&apos;m not buyin&apos;.
+       <span>G</span>       <span>Am7</span>                <span>G</span>
+If its anybody else, wait for the tone,
+                 <span>C</span>  
+You know what to do.
+<span>Am</span>      <span>F</span>             <span>Dsus</span>   <span>D</span>
+  And P.S, if this is Austin...
+        <span>C</span>         <span>G</span>   <span>C</span>   <span>G</span>
+I still love you.
+
+
+[Verse 2]
+
+    <span>C</span>                     <span>G</span>              
+The telephone fell to the counter.
+      <span>C</span>                         <span>G</span>
+She&apos;d heard, but she couldn&apos;t believe.
+<span>C</span>            <span>D</span>         <span>Em</span>
+What kind of man would hang on that long,
+<span>C</span>                           <span>D</span>
+What kind of love that must be.
+<span>G/B</span>              <span>C</span>              <span>D</span>
+She waited three days, and then she tried again.
+<span>G/B</span>                        <span>C</span>
+She didn&apos;t know what she&apos;d say,
+        <span>Dsus</span>                  <span>D</span>
+But she heard three rings and then:
+
+
+[Chorus]
+
+        <span>G</span>                 <span>Em</span>
+If it&apos;s Friday night, I&apos;m at the ballgame,
+    <span>C</span>                   <span>Dsus</span>    <span>D</span>
+And first thing Saturday, if it don&apos;t rain.
+<span>Em</span>                    <span>G</span>                 <span>C</span>                <span>Dsus</span>  <span>D</span>
+I&apos;m headed out to the lake, and I&apos;ll be gone all weekend long.
+         <span>G</span>                  <span>Am</span>     
+But I&apos;ll call you back when I get home
+   <span>G</span>           <span>C</span>    
+On Sunday afternoon.
+<span>Am</span>      <span>F</span>             <span>Dsus</span>    <span>D</span>
+  And P.S, if this is Austin...
+        <span>G</span>
+I still love you.
+
+
+[Bridge]
+
+     <span>Am</span> 
+Well this time she left her number,
+    <span>Em</span>
+But not another word.
+         <span>Eb</span>             
+Then she waited by the phone on Sunday evening,
+<span>Dsus</span>                  <span>D</span>       <span>Dsus</span>  <span>D</span> 
+  And this is what he heard:
+
+
+[Chorus]
+
+          <span>A(add9)</span>          <span>F#m</span>
+If you&apos;re calling &apos;bout my heart,
+
+Its still yours.
+<span>D</span>                 <span>Esus</span>    <span>E</span>
+  I should listen to it a little more.
+<span>F#m</span>                     <span>E</span>           <span>D</span>
+  Then it wouldn&apos;t have taken me so long
+               <span>E</span>
+To know, where I belong.
+    <span>A</span>             <span>Bm</span>              <span>A</span>                    <span>D</span>
+And by the way boy, this is no machine you&apos;re talkin&apos; to.
+<span>Bm</span>          <span>G</span>                 <span>Esus</span>    <span>E</span>
+  Can&apos;t you tell that this is Austin...
+            <span>D</span>         <span>A</span>   <span>D</span>   <span>A</span>
+And I still love you.
+        <span>D</span>          <span>A</span>  <span>D</span>   <span>A</span>
+I still love you....
+
+
+Chords used:
+
+<span>C</span>         =   x32010                                <span>G</span>     =   320003
+<span>D</span>         =   xx0232                                <span>Em</span>    =   022000
+<span>G/B</span>       =   x2003x                                <span>Dsus</span>  =   xx0233
+<span>Am7</span>       =   x02010                                <span>Am</span>    =   x02210
+<span>F</span>         =   133211                                <span>Eb</span>    =   xx1343
+<span>A(add9)</span>   =   x02200                                <span>F#m</span>   =   244222
+<span>Esus</span>      =   022200                                <span>E</span>     =   022100
+<span>A</span>         =   x02220                                <span>Bm</span>    =   x24432
